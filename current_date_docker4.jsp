@@ -7,7 +7,7 @@
    
    <body>
       <center>
-         <h1>Display Current Date & Time Shalom Olam Test 2</h1>
+         <h1>Display Current Date 444</h1>
       </center>
       <%
          Date date = new Date();
