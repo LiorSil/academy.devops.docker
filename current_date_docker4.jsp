@@ -7,7 +7,7 @@
    
    <body>
       <center>
-         <h1>Display Current Date Guy, Ben And Lior</h1>
+         <h1>Display Current Date Guy, Ben And Lior 123</h1>
       </center>
       <%
          Date date = new Date();
