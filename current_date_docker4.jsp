@@ -10,7 +10,7 @@
          <h1>Display Current Date Guy, Ben And Lior Hello World 123456789 </h1>
       </center>
       <%
-         Date date = new222 Date();
+         Date date = new Date();
          out.print( "<h2 align = \"center\">" +date.toString()+"</h2>");
       %>
    </body>
